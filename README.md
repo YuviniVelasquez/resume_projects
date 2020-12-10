@@ -12,8 +12,12 @@ These projects are intended to show my engineering capabilities and problem solv
 
 In creating and designing a robust embedded system, there are many errors and faults that need to be prevented and managed. These can be internal or external faults such as exploit attacks, device failures, bad programming practices, or even change of bits because of solar flare.
 
+![Freedom Development Board]<img src="images/freedom_developmen_board.jpg" width="250" align = center>
+
+![Shield PCB with Debugging Setup]<img src="images/shield_pcb_debugging_setup.jpg" width="250" align = center>
+
 In this project, I modified the code provided that controlled a Freedom Developing board with NXP Kinetis processor with an LCD display to handle the most common errors in Embedded Systems. I layed out my debugging process, the tools I used, provided with videos or oscilloscope screenshots to view the bugs, and I analized the efficiency of the solution I proposed.
 
 
-![Freedom Board]<img src="https://github.com/YuviniVelasquez/resume_projects/images/freedom_developmen_board.jpg" width="48">
+
 
