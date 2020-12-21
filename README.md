@@ -18,9 +18,9 @@ In creating and designing a robust embedded system, there are many errors and fa
      <td>Freedom board with PCB, LCD, and AD2 as oscilloscope</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/tree/main/images/freedom_developmen_board.jpg" width=450></td>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/tree/main/images/shield_pcb_debugging_setup.jpg" width=450 ></td>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/tree/main/images/board_with_LDC.jpg" width=270 ></td>
+    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/freedom_developmen_board.jpg" width=450></td>
+    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/shield_pcb_debugging_setup.jpg" width=450 ></td>
+    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/board_with_LDC.jpg" width=270 ></td>
   </tr>
  </table>
 
