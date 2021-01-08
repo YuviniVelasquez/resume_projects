@@ -61,8 +61,6 @@ The project was commissioned in Fall 2019. It was to be completed within 14 week
   </tr>
  </table>
 
-## 2. Overview <a name="overview"></a>
-
 The vehicle consists of a 4 AA battery power supply, a control board with power circuit, two H-bridges that switch the direction of supplied voltage and allows for left and right motors, the MSP-EXP430FR2355 FRAM board, an IR emitter and IR detector, and an LCD display.
 
 <div style="text-align:center"><img src="images/overview.jpg"/></div>
