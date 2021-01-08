@@ -77,5 +77,5 @@ Secondly, a well structured project eased the creation, debugging and assembly o
 
 Finally, sensors were mounted so that information about the vehicle’s surrounding could be processed, leading to the ability to locate a black line and traverse it. A similar structure was used to add the IoT/Serial communication functionality.
 
-Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project  
+Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project.
 
