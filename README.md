@@ -67,15 +67,8 @@ The vehicle consists of a 4 AA battery power supply, a control board with power 
 <div style="text-align:center"><img src="images/overview.jpg"/></div>
 <div style="text-align:center">Overview Block Diagram</div>
 
-## 9. Conclusion <a name="conclusion"></a>
 
 After completing each project, a few things stood out about the course as a whole.
 
-First, the importance of mentoring in a fast paced enviroment is crucial. Mentoring was avaiable via online or in the lab. 
-
-Secondly, a well structured project eased the creation, debugging and assembly of the project. Each new addition to the car built on the foundation implemented in the previous step until there was a complete project. For example, several projects led to the ability to navigate a black line. It started with simply getting forward movement. After this, reverse movement was implemented, and later added the ability to make turns quickly. 
-
-Finally, sensors were mounted so that information about the vehicle’s surrounding could be processed, leading to the ability to locate a black line and traverse it. A similar structure was used to add the IoT/Serial communication functionality.
-
-Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project.
+The importance of mentoring in a fast paced enviroment is crucial. Mentoring was avaiable via online or in the lab. Also, well structured project eased the creation, debugging and assembly of the project. Each new addition to the car built on the foundation implemented in the previous step until there was a complete project. For example, several projects led to the ability to navigate a black line. It started with simply getting forward movement. After this, reverse movement was implemented, and later added the ability to make turns quickly. Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project.
 
