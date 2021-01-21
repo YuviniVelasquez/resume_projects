@@ -42,8 +42,8 @@ The achievement of this design is that it is a synthesizable design that runs at
 
 <table>
   <tr>
-    <td><img src="Images/summation.jpg" width=400></td>
-    <td><img src="Images/oi_diagram.jpg" width=450 ></td>
+    <td><img src="images/summation.jpg" width=400></td>
+    <td><img src="images/oi_diagram.jpg" width=450 ></td>
   </tr>
   <tr style="text-align:center">
     <td>Summation to obtain Hyperparameter with proposed design</td>
