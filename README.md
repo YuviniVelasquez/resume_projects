@@ -24,9 +24,9 @@ These projects are intended to show my engineering capabilities and problem solv
      <td>Freedom board with PCB, LCD, and AD2 as oscilloscope</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/freedom_developmen_board.jpg" width=450></td>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/shield_pcb_debugging_setup.jpg" width=450 ></td>
-    <td><img src="https://github.com/YuviniVelasquez/resume_projects/blob/main/images/board_with_LDC.jpg" width=270 ></td>
+    <td><img src="images/freedom_developmen_board.jpg" width=450></td>
+    <td><img src="images/shield_pcb_debugging_setup.jpg" width=450 ></td>
+    <td><img src="images/board_with_LDC.jpg" width=270 ></td>
   </tr>
  </table>
 
@@ -37,7 +37,19 @@ In this project, I modified the code provided that controlled a Freedom Developi
 The use of hardware acceleration to train Deep Neural Networks is an approach that aims to reduce the great computer power that traditionally is used with other training forms such as GPUs and CPUs. The following report presents a design to calculate a one level network by implementing a Multiply Accumulator (MAC) and two 8-bit parallel multipliers as a hardware solution to train DNN’s.
 
 This approach intended to use the parallelism avaiable in FPGAs and ASICs. 
-The achievement of this design is that it is a synthesizable design that runs at a clock speed twice as fast than given in the test bench thanks to the use of parallelism. The performance and the area has been optimized and the results are presented in the linked
+The achievement of this design is that it is a synthesizable design that runs at a clock speed twice as fast than given in the test bench thanks to the use of parallelism. The performance and the area has been optimized and the results are presented in the linked documents.
+
+
+<table>
+  <tr>
+    <td><img src="Images/summation.jpg" width=400></td>
+    <td><img src="Images/oi_diagram.jpg" width=450 ></td>
+  </tr>
+  <tr style="text-align:center">
+    <td>Summation to obtain Hyperparameter with proposed design</td>
+    <td>Designed IO Diagram</td>
+  </tr>
+ </table>
 
 ### **[3) Line Detecting MCU Motorized Vehicle ](https://github.com/YuviniVelasquez/line_detecting_mcu_motorized_vehicle.git)** <a name="mcuproject"></a>
 ## An Embedded Systems Project with an Extreme Learning Curve
@@ -66,8 +78,5 @@ The vehicle consists of a 4 AA battery power supply, a control board with power 
 <div style="text-align:center"><img src="images/overview.jpg"/></div>
 <div style="text-align:center">Overview Block Diagram</div>
 
-
-After completing each project, a few things stood out about the course as a whole.
-
-The importance of mentoring in a fast paced enviroment is crucial. Mentoring was avaiable via online or in the lab. Also, well structured project eased the creation, debugging and assembly of the project. Each new addition to the car built on the foundation implemented in the previous step until there was a complete project. For example, several projects led to the ability to navigate a black line. It started with simply getting forward movement. After this, reverse movement was implemented, and later added the ability to make turns quickly. Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project.
+ Overall the ability to problem solve, stress management skills, debugging, and engineering skills were undoubtedly refined with this project.
 
